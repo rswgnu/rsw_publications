@@ -1,7 +1,7 @@
 # rsw_publications
 Archive of some major software documentation by Robert Weiner:
 
-1. [Hyperbole](GNU-Hyperbole) - The Everyday Hypertextual Information Manager
+1. [Hyperbole](Hyperbole) - The Everyday Hypertextual Information Manager
 
 `GNU Hyperbole` (pronounced Ga-new Hi-per-bo-lee) offers
 context-sensitive mouse and keyboard keys that do the right thing, a
@@ -11,7 +11,7 @@ extensible hyperlink buttons, even embeddable within mail and news
 messages.
 
 
-2. [OO-Browser](GNU-OO-Browser) - The Multi-language Object-Oriented Code Browser
+2. [OO-Browser](OO-Browser) - The Multi-language Object-Oriented Code Browser
 
 The `GNU OO-Browser` (pronounced Ga-new owe-owe-browse-er) is a
 multi-windowed, interactive, object-oriented class browser designed
